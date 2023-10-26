@@ -1,0 +1,33 @@
+{
+    "movie1" : {
+       "title" : "The Equalizer",
+       "director" : "Antoine Fuqua",
+       "genre" : "action, crime, thriller",
+       "link" : "https://www.imdb.com/title/tt0455944/?ref_=nv_sr_srsg_3_tt_7_nm_1_q_equaliz",
+       "id" : 1
+    },
+ 
+    "movie2" : {
+        "title" : "Rush Hour",
+        "director" : "Brett Ratner",
+        "genre" : "comedy, action",
+        "link" : "https://www.imdb.com/title/tt0120812/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_rush%2520hour",
+        "id" : 2
+    },
+ 
+    "movie3" : {
+        "title" : "Valentine's Day",
+        "director" : "Garry Marshall",
+        "genre" : "romance, comedy",
+        "link" : "https://www.imdb.com/title/tt0817230/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_valentine%27s%2520day",
+        "id" : 3
+    },
+
+    "movie4" : {
+        "title" : "Dragon Ball Super",
+        "director" : "Akira Toriyama",
+        "genre" : "animation, family, sci-fi, adventure, comedy",
+        "link" : "https://www.imdb.com/title/tt4644488/?ref_=nv_sr_srsg_6_tt_8_nm_0_q_dragon%2520ball",
+        "id" : 4
+    }
+}
